@@ -1,0 +1,13 @@
+# MATLAB 临时文件
+*.asv
+*.m~
+*.autosave
+
+# MATLAB 编译生成目录
+slprj/
+sccprj/
+codegen/
+
+# 其他临时文件
+*.slxc
+.MATLABDriveTag
